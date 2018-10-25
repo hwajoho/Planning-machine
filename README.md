@@ -1,2 +1,2 @@
 # Planning-machine
-arrange assignments and 
+arrange assignments
